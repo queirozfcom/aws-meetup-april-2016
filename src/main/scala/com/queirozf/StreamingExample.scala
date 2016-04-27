@@ -12,6 +12,7 @@ import twitter4j.conf.ConfigurationBuilder
 object StreamingExample extends Logging{
 
 
+  // crie suas credenciais em https://apps.twitter.com/
   val apiKey = """xxxxx"""
   val apiSecret = """xxxxx"""
   val accessToken = """xxxxx"""
