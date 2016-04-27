@@ -12,11 +12,6 @@ import twitter4j.conf.ConfigurationBuilder
   */
 object StreamingExample extends Logging{
 
-//  val apiKey = """JG0nOQbH13ckyQIdZWWfeQgXd"""
-//  val apiSecret = """S6m50He74GORYyTgnHB5Be5WUwHYGZe60r8En0JzLVirefRjnm"""
-//  val accessToken = """261548171-4xTWn8lMbOK19RMgSVMmvfcPFCJLsFfnMI9xUKGl"""
-//  val accessTokenSecret = """x5e4b9qkAVO5yx3MQqnQAxwWLF3pG9HYftxX6b0eL075l"""
-
   val apiKey = """xxxxx"""
   val apiSecret = """xxxxx"""
   val accessToken = """xxxxx"""
